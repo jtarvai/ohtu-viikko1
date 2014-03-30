@@ -81,7 +81,7 @@ public class VarastoTest {
     public void lisaaLiianVähän() {
         double varastossa = varasto.getSaldo();
         varasto.lisaaVarastoon(-1);
-        assertEquals(varastossa, varasto.getSaldo(), vertailuTarkkuus);
+        assertEquals(1, varasto.getSaldo(), vertailuTarkkuus);
     }
 
     @Test
