@@ -1,3 +1,3 @@
 ohtu-viikko1
 ============
-http://ohtu.jamo.io/job/jt-otm-viikko1/
+http://ohtu.jamo.io/job/jt-ohtu-viikko1/
